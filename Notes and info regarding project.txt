@@ -1,6 +1,6 @@
 Respected Sir,
-Please! Click on index.html file to view the project. I have incorporated the video pop up and the slider part. 
-
+Please! Click on index.html file to view the project. I have incorporated the video pop up and the slider part. in sider part please click on the three slider dots given and right corner.
+I have attached a screen recording of the same.
 I am hereby attaching the repository link on github pages to view it online.
 https://crypticcoder2502.github.io/jtgassignment.github.io/
 Thank you
